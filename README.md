@@ -54,11 +54,7 @@ Sustainability: Fair-trade model ensures 70% revenue goes directly to artisans
 
 II. Architecture, Design, and Features
 1. System Architecture
-| Layer              | Key Technologies / Components                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend Layer** | • HTML5 / CSS3 / JavaScript (Vanilla ES6+)  <br>• Responsive Design (Mobile-first)  <br>• Progressive Web App (PWA) capabilities                                                                                                                                                                                                                                                                  |
-| **Backend Layer**  | • JavaScript / Node.js runtime  <br>• LocalStorage-based persistence  <br>• Modular Class Architecture  <br> ┌─ Application Components ─┐  <br>│  • FilipiKnowApp (Main Controller)  <br>│  • Database (Local data management)  <br>│  • AuthSystem (User authentication)  <br>│  • ShoppingCart (E-commerce logic)  <br>│  • VideoPlayer (Multimedia handling)  <br>└──────────────────────────┘ |
-| **Data Layer**     | • LocalStorage (client-side database)  <br>• JSON-structured data  <br>• Offline-first design  <br>• Data-synchronization capability                                                                                                                                                                                                                                                              |
+<img width="543" height="479" alt="image" src="https://github.com/user-attachments/assets/fb4ee46e-9de7-47bb-b815-352c406d7f6a" />
 
 
 3. Three Core Features & Justification
